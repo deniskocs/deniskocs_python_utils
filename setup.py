@@ -7,7 +7,7 @@ setup(
     author="Denis Chilik",
     author_email="deniskocs@gmail.com",
     description="Utility classes required for other projects",
-    url="https://github.com/deniskocs/python-utils",
+    url="https://github.com/deniskocs/deniskocs_python_utils",
     install_requires=[
         "matplotlib",
     ],
